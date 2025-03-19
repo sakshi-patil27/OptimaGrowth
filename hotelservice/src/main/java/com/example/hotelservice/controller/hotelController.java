@@ -19,7 +19,6 @@ import com.example.hotelservice.service.hotelService;
 @RestController
 @RequestMapping("/hotel")
 public class hotelController {
-//c
 	@Autowired
     private hotelService hotelservice;
 	
