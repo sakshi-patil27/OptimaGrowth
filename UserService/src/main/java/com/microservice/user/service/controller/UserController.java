@@ -16,6 +16,7 @@ import com.microservice.user.service.entity.User;
 import com.microservice.user.service.services.UserService;
 
 
+//this is user service
 @RestController
 @RequestMapping("/users")
 public class UserController {
